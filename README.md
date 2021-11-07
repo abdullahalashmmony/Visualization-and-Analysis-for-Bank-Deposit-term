@@ -1,0 +1,2 @@
+# Visualization-and-Analysis-for-Bank-Deposit-term
+The investment and portfolio department of the Bank would want to be able to identify their customers who potentially would subscribe to their term deposits. As there has been heightened interest of marketing managers to carefully tune their directed campaigns to the rigorous selection of contacts, the task at hand is to find a best analysis and Visualization to facilitate their work
